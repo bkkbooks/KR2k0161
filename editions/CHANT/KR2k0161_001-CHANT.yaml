@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2k0161/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 風土記越俗飲宴即鼓盤以為樂取大素圓盤以廣尺六者抱其著腹以右手五指更彈之以為節荈者應節而舞陽羨縣東有大湖中有包山山下有洞穴潛行地中云無所不通謂之洞庭地脈
+  hash: sha256:a13acc2ce6f6ae671ba886ba6f90249e11b18dc3c7f12a00346fce2963a9c393
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2k0161_CHANT_001-1a.1-h}
+metadata:
+  title: 風土記
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2k0161.xml
+hash: sha256:728b3eb2083738a24f68290f3fe2bd1921e5198735d594c2ead39192203aff81

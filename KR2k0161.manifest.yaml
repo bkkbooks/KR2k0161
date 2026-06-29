@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR2k0161/v1
+canonical_location: https://kanripo.org/bkk/KR2k0161/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 風土記
+  identifiers:
+    krp: KR2k0161
+  tags:
+    kr-categories: KR2k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR2k0161.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR2k0161_001.yaml, hash: 'sha256:9aee3dc18b7f64517e01422d3d5de0ae0b88c03b8a30933764a8b2c83205ad79'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2k0161_001.markers.yaml, hash: 'sha256:38c8d15b909e7a5b95419612898836cb4e8be0ae154e049d3f9e24a322d29299'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2k0161_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 75
+  label: 風土記
+  type: section
+  level: 1
+hash: sha256:2fd6a48bbc4ba687c281009dfdba0622aa93d1d5354a659d6e5467ba1ec89f0e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

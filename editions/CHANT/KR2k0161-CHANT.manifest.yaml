@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR2k0161/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2k0161/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 風土記
+  identifiers:
+    krp: KR2k0161
+  tags:
+    kr-categories: KR2k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR2k0161.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2k0161_001-CHANT.yaml, hash: 'sha256:728b3eb2083738a24f68290f3fe2bd1921e5198735d594c2ead39192203aff81'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2k0161_001-CHANT.markers.yaml, hash: 'sha256:95a27c084d7ea03d7141cb6075188bcd0d109e9e134fab59ce9792ba69df57dc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2k0161_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 75
+  label: 風土記
+  type: section
+  level: 1
+hash: sha256:85b58544a875656d21f47b78f30e4f69ea8b9d022fda7020e508a03608bbfb60
